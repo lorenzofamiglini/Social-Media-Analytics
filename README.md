@@ -9,3 +9,8 @@ Twitter post analysis and community detection
 6) Nel notebook "Bot analysis" viene effettuata l'analisi del testo sui possibili bot identificati (LDA e world cloud) 
 7) Nel notebook "LDA tweets" viene applicato il modello LDA per identificare il linguaggio dei vari cluster 
 
+Nella cartella Data, sono presenti tutti i dati relativi al progetto, suddivisi per cartelle: 
+1) Cartella Bot_analysis: sono presenti i punteggi e i dati relativi agli utenti analizzati dal modello di Bot or not
+2) Cartella cluster: troviamo tutte le informazioni relative ai cluster suddivisi per tipologia di grafo
+3) Cartella Dataset_finale_tweets: Abbiamo i due dataframe finali relativi ai due grafi, con informazioni sul testo, metadati, ecc...
+4) Cartella tweets: abbiamo tutti i dati raccolti direttamente da twitter sottoforma di json e file csv
