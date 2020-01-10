@@ -8,6 +8,9 @@ Twitter post analysis and community detection
 5) Nel notebook "Bot or Not" viene applicato il modello di BotorNot attraverso delle API, in modo tale da creare un dataframe con i relativi punteggi per ciascun utente
 6) Nel notebook "Bot analysis" viene effettuata l'analisi del testo sui possibili bot identificati (LDA e world cloud) 
 7) Nel notebook "LDA tweets" viene applicato il modello LDA per identificare il linguaggio dei vari cluster 
+8) Nel “per_neo_e_flou”: preparazione dei dataset per essere utilizzati su Neo4j e flourish
+9) Nel notebook “avg”: calcolo di coefficienti per i cluster
+10) Nel notebook “final_clus”: preparazione dei dataset per la creazione del grafi, creazione dei grafi, analisi di metriche
 
 Nella cartella Data, sono presenti tutti i dati relativi al progetto, suddivisi per cartelle: 
 1) Cartella Bot_analysis: sono presenti i punteggi e i dati relativi agli utenti analizzati dal modello di Bot or not
