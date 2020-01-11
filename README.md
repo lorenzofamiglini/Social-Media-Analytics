@@ -11,6 +11,10 @@ Twitter post analysis and community detection
 8) Nel “per_neo_e_flou”: preparazione dei dataset per essere utilizzati su Neo4j e flourish
 9) Nel notebook “avg”: calcolo di coefficienti per i cluster
 10) Nel notebook “final_clus”: preparazione dei dataset per la creazione del grafi, creazione dei grafi, analisi di metriche
+11) Nel file old.tweets.r, download dei tweet tramite R 
+12) Nel file sentiment_nrc.r, analisi del sentiment con il lessico NRC
+13) Nel notebook nrc_sentiment, misure riassuntive sui risultati del sentiment (NRC) 
+14) Nel notebook Sentiment_analysis_sentix, analisi del sentiment tramite il lessico Sentix
 
 Nella cartella Data, sono presenti tutti i dati relativi al progetto, suddivisi per cartelle: 
 1) Cartella Bot_analysis: sono presenti i punteggi e i dati relativi agli utenti analizzati dal modello di Bot or not
