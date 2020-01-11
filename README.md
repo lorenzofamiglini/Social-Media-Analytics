@@ -21,3 +21,7 @@ Nella cartella Data, sono presenti tutti i dati relativi al progetto, suddivisi 
 2) Cartella cluster: troviamo tutte le informazioni relative ai cluster suddivisi per tipologia di grafo
 3) Cartella Dataset_finale_tweets: Abbiamo i due dataframe finali relativi ai due grafi, con informazioni sul testo, metadati, ecc...
 4) Cartella tweets: abbiamo tutti i dati raccolti direttamente da twitter sottoforma di json e file csv
+
+Lorenzo Famiglini
+Angela Prade
+Mirko Giugliano
