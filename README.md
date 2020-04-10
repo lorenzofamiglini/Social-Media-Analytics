@@ -23,5 +23,3 @@ Nella cartella Data, sono presenti tutti i dati relativi al progetto, suddivisi 
 4) Cartella tweets: abbiamo tutti i dati raccolti direttamente da twitter sottoforma di json e file csv
 
 Lorenzo Famiglini
-Angela Prade
-Mirko Giugliano
